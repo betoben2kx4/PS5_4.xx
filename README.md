@@ -1,3 +1,3 @@
-# PS5_4.03 (Debug Menu Enabler)
+# PS5_4.xx (Debug Menu Enabler)
 ---
 Many Many Thanks To All contributor's of PS4/PS5 Scene!
